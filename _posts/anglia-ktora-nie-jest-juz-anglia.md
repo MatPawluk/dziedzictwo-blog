@@ -1,6 +1,9 @@
 ---
 title: "Anglia, która nie jest już Anglią: flagi, modlitwy i hipokryzja w praktyce"
-excerpt: "Ostatnie wydarzenia w Wielkiej Brytanii uderzyły we mnie z siłą, której się nie spodziewałem. Z pozoru drobne, a jednak symboliczne – zdjęcie flag Union Jack i św. Jerzego z przestrzeni publicznych pod pretekstem „bezpieczeństwa"."
+excerpt: >
+  Ostatnie wydarzenia w Wielkiej Brytanii uderzyły we mnie z siłą, której się nie spodziewałem. 
+  Z pozoru drobne, a jednak symboliczne – zdjęcie flag Union Jack i św. Jerzego z przestrzeni 
+  publicznych pod pretekstem „bezpieczeństwa".
 coverImage: "/assets/blog/anglia/cover.jpg"
 date: "2025-01-18T12:00:00.000Z"
 author:
