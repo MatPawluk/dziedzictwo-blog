@@ -1,7 +1,7 @@
 "use client";
 
-import styles from "./switch.module.css";
 import { memo, useEffect, useState } from "react";
+import { MdDarkMode, MdLightMode, MdSettingsBrightness } from "react-icons/md";
 
 declare global {
   var updateDOM: () => void;
@@ -83,12 +83,27 @@ const Switch = () => {
     const index = modes.indexOf(mode);
     setMode(modes[(index + 1) % modes.length]);
   };
+
+  const getIcon = () => {
+    switch (mode) {
+      case "dark":
+        return <MdDarkMode size={24} />;
+      case "light":
+        return <MdLightMode size={24} />;
+      default:
+        return <MdSettingsBrightness size={24} />;
+    }
+  };
+
   return (
     <button
       suppressHydrationWarning
-      className={styles.switch}
+      className="fixed top-4 right-4 z-50 p-3 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-full shadow-lg hover:shadow-xl transition-shadow"
       onClick={handleModeSwitch}
-    />
+      title={`Current theme: ${mode}`}
+    >
+      {getIcon()}
+    </button>
   );
 };
 

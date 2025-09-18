@@ -8,7 +8,7 @@ coverImage: "/assets/blog/anglia/cover.jpg"
 date: "2025-01-18T12:00:00.000Z"
 author:
   name: "WeAreAllCharlie"
-  picture: "/assets/blog/authors/author.jpeg"
+  picture: "/assets/blog/authors/charlie.jpg"
 ogImage:
   url: "/assets/blog/anglia/cover.jpg"
 ---
