@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              Witaj w blogu Dziedzictwo - analizy współczesnej Wielkiej Brytanii.
+              Witaj w blogu Dziedzictwo - założonym po śmierci Charlie'go Kirka.
             </>
           )}
         </div>

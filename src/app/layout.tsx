@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Dziedzictwo`,
-  description: `Blog o współczesnej Wielkiej Brytanii, polityce i społeczeństwie z perspektywy obserwatora zmian.`,
+  description: `Blog założony po śmierci Charlie'go Kirka - refleksje o społeczeństwie, polityce i wartościach.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

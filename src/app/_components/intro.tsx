@@ -7,7 +7,7 @@ export function Intro() {
         Dziedzictwo.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Blog o współczesnej Wielkiej Brytanii, polityce i społeczeństwie z perspektywy obserwatora zmian.
+        Blog założony po śmierci Charlie'go Kirka - refleksje o społeczeństwie, polityce i wartościach.
       </h4>
     </section>
   );
