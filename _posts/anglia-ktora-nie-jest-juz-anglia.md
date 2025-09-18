@@ -4,13 +4,13 @@ excerpt: >
   Ostatnie wydarzenia w Wielkiej Brytanii uderzyły we mnie z siłą, której się nie spodziewałem. 
   Z pozoru drobne, a jednak symboliczne – zdjęcie flag Union Jack i św. Jerzego z przestrzeni 
   publicznych pod pretekstem „bezpieczeństwa".
-coverImage: "/assets/blog/anglia/cover.jpg"
+coverImage: "/assets/blog/anglia/cover.png"
 date: "2025-01-18T12:00:00.000Z"
 author:
   name: "WeAreAllCharlie"
-  picture: "/assets/blog/authors/charlie.jpg"
+  picture: "/assets/blog/authors/charlie.png"
 ogImage:
-  url: "/assets/blog/anglia/cover.jpg"
+  url: "/assets/blog/anglia/cover.png"
 ---
 
 Ostatnie wydarzenia w Wielkiej Brytanii uderzyły we mnie z siłą, której się nie spodziewałem. Z pozoru drobne, a jednak symboliczne – zdjęcie flag Union Jack i św. Jerzego z przestrzeni publicznych pod pretekstem „bezpieczeństwa". Flagi, które nikomu nie zagrażały, nagle stają się problemem. Absurdalne przepisy, lęk przed „zagrożeniem" ze strony symboli narodowych, które od wieków identyfikowały i scalały społeczeństwo – to wszystko pokazuje, jak bardzo Anglia przestała być sobą. Kraj, który kiedyś był dumą i tradycją, dziś chowa się za wymówkami urzędniczych papierków i absurdalnych analiz ryzyka.

@@ -9,7 +9,7 @@ export function Footer() {
             Dziedzictwo
           </h3>
           <p className="text-center text-neutral-600 dark:text-neutral-400">
-            Blog o współczesnej Wielkiej Brytanii © 2025 WeAreAllCharlie
+            © 2025 WeAreAllCharlie
           </p>
         </div>
       </Container>
