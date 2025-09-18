@@ -4,7 +4,7 @@ excerpt: "Ostatnie wydarzenia w Wielkiej Brytanii uderzyły we mnie z siłą, kt
 coverImage: "/assets/blog/anglia/cover.jpg"
 date: "2025-01-18T12:00:00.000Z"
 author:
-  name: "Obserwator Zmian"
+  name: "WeAreAllCharlie"
   picture: "/assets/blog/authors/author.jpeg"
 ogImage:
   url: "/assets/blog/anglia/cover.jpg"

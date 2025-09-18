@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Anglia, która nie jest już Anglią`,
+  title: `Dziedzictwo`,
   description: `Blog o współczesnej Wielkiej Brytanii, polityce i społeczeństwie z perspektywy obserwatora zmian.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
